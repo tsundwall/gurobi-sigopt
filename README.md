@@ -26,11 +26,11 @@ $$ t_i \leq \mu_i z_i  \forall i$$
 $$ z_i(1+x^e_i) = 1$$
 
 
+
+
+$$ x^n_i = -\theta_i x_i + \lambda_i \; \forall i$$
+
 $$ Ax = b$$
-
-$$ x^n_i = -\theta_i x_i + \lambda_i \forall i$$
-
-
 $$ Cx \leq d$$
 
 $\hat{e}$ indicates the piecewise linear bound approximation of the natural exponent.
